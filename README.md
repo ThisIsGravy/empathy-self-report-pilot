@@ -1,7 +1,42 @@
 # Empathy self-report pilot
 
-<!-- WRITE THIS SECTION YOURSELF: 3-6 plain sentences on what you tested, what you found,
-and why it matters. Anthropic asks that application materials start as your own draft. -->
+Does a model's rating of its own empathy match how empathetic its replies actually are?
+This pilot tested that on a small open model, Qwen2.5-1.5B-Instruct.
+
+The model answered 50 invented messages (40 emotional, 10 neutral controls). In a fresh
+conversation, it then rated its own empathy on each reply from 1 to 10. I scored every reply
+blind. I also ran my own automated scorer, EIQ, on the same replies.
+
+## Findings
+
+- On the 40 emotional prompts, the model's self-ratings tracked my blind scores weakly
+  (Spearman rho = 0.29, p = 0.07).
+- EIQ did worse (rho = 0.08). It rewarded sympathy keywords over useful help, and it read grief
+  stated without emotion words as neutral.
+- Three more people scored 20 of the replies blind, with the same one-line instruction. The four
+  of us barely agreed: Krippendorff's alpha was 0.03 across all four raters and -0.20 across the
+  three independent ones. Against their consensus, neither the self-ratings (rho = 0.13) nor EIQ
+  (rho = -0.19) tracked.
+- The model overrated itself most on messages that described a situation without naming the
+  feeling. With these sample sizes, that's a hint, not a result.
+
+## What it means
+
+Before you can check whether a model's account of its own empathy is accurate, you need a
+reference that people agree on. Overall "how empathetic is this?" judgments didn't give one.
+A next step is to score separate parts (reading the person's state, acknowledging it, helping)
+and test whether raters agree on those.
+
+## Limits
+
+One small model, 50 prompts, one rater (the author) on all 50 replies and three independent
+raters on 20. Treat it as a pilot.
+
+## How this was made
+
+I chose the research question, scored all 50 replies, designed the study recruited the other raters, and reviewed
+every result. Claude (Anthropic) helped write the prompts, the generation
+and analysis code, and the first draft of this README.
 
 ## What's here
 
