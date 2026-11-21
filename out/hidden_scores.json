@@ -1,0 +1,652 @@
+{
+  "1": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.4171,
+      "reply_only": 0.56,
+      "c_emp": 0.6353,
+      "a_emp": 0.4,
+      "p_emp": 0.8,
+      "r_inv": 0.4413,
+      "detected_emotion": "neutral"
+    }
+  },
+  "2": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.4009,
+      "reply_only": 0.496,
+      "c_emp": 0.6973,
+      "a_emp": 0.55,
+      "p_emp": 0.415,
+      "r_inv": 0.4677,
+      "detected_emotion": "sadness"
+    }
+  },
+  "3": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.4317,
+      "reply_only": 0.6028,
+      "c_emp": 0.6218,
+      "a_emp": 0.4714,
+      "p_emp": 0.8,
+      "r_inv": 0.421,
+      "detected_emotion": "neutral"
+    }
+  },
+  "4": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.4061,
+      "reply_only": 0.529,
+      "c_emp": 0.6385,
+      "a_emp": 0.5067,
+      "p_emp": 0.5625,
+      "r_inv": 0.4597,
+      "detected_emotion": "neutral"
+    }
+  },
+  "5": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.3114,
+      "reply_only": 0.286,
+      "c_emp": 0.6209,
+      "a_emp": 0.25,
+      "p_emp": 0.34,
+      "r_inv": 0.6843,
+      "detected_emotion": "neutral"
+    }
+  },
+  "6": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3733,
+      "reply_only": 0.434,
+      "c_emp": 0.6245,
+      "a_emp": 0.5,
+      "p_emp": 0.335,
+      "r_inv": 0.55,
+      "detected_emotion": "neutral"
+    }
+  },
+  "7": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.405,
+      "reply_only": 0.522,
+      "c_emp": 0.6169,
+      "a_emp": 0.4667,
+      "p_emp": 0.605,
+      "r_inv": 0.4841,
+      "detected_emotion": "neutral"
+    }
+  },
+  "8": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.4928,
+      "reply_only": 0.74,
+      "c_emp": 0.6658,
+      "a_emp": 0.6333,
+      "p_emp": 0.9,
+      "r_inv": 0.3661,
+      "detected_emotion": "anxiety"
+    }
+  },
+  "9": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3961,
+      "reply_only": 0.476,
+      "c_emp": 0.6832,
+      "a_emp": 0.2167,
+      "p_emp": 0.865,
+      "r_inv": 0.501,
+      "detected_emotion": "anxiety"
+    }
+  },
+  "10": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3681,
+      "reply_only": 0.385,
+      "c_emp": 0.7293,
+      "a_emp": 0.0833,
+      "p_emp": 0.8375,
+      "r_inv": 0.5629,
+      "detected_emotion": "fear"
+    }
+  },
+  "11": {
+    "self_rating_raw": "6",
+    "self_rating": 6,
+    "eiq_auto": {
+      "eiq_final": 0.3626,
+      "reply_only": 0.406,
+      "c_emp": 0.6209,
+      "a_emp": 0.25,
+      "p_emp": 0.64,
+      "r_inv": 0.5773,
+      "detected_emotion": "neutral"
+    }
+  },
+  "12": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.334,
+      "reply_only": 0.332,
+      "c_emp": 0.6171,
+      "a_emp": 0.25,
+      "p_emp": 0.455,
+      "r_inv": 0.6564,
+      "detected_emotion": "neutral"
+    }
+  },
+  "13": {
+    "self_rating_raw": "5",
+    "self_rating": 5,
+    "eiq_auto": {
+      "eiq_final": 0.3908,
+      "reply_only": 0.485,
+      "c_emp": 0.6129,
+      "a_emp": 0.4333,
+      "p_emp": 0.5625,
+      "r_inv": 0.5119,
+      "detected_emotion": "neutral"
+    }
+  },
+  "14": {
+    "self_rating_raw": "5",
+    "self_rating": 5,
+    "eiq_auto": {
+      "eiq_final": 0.3144,
+      "reply_only": 0.284,
+      "c_emp": 0.6121,
+      "a_emp": 0.25,
+      "p_emp": 0.335,
+      "r_inv": 0.7178,
+      "detected_emotion": "neutral"
+    }
+  },
+  "15": {
+    "self_rating_raw": "3",
+    "self_rating": 3,
+    "eiq_auto": {
+      "eiq_final": 0.3364,
+      "reply_only": 0.3011,
+      "c_emp": 0.7282,
+      "a_emp": 0.2333,
+      "p_emp": 0.4028,
+      "r_inv": 0.6493,
+      "detected_emotion": "anger"
+    }
+  },
+  "16": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3344,
+      "reply_only": 0.306,
+      "c_emp": 0.6981,
+      "a_emp": 0.2333,
+      "p_emp": 0.415,
+      "r_inv": 0.6552,
+      "detected_emotion": "anger"
+    }
+  },
+  "17": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3745,
+      "reply_only": 0.437,
+      "c_emp": 0.6237,
+      "a_emp": 0.3167,
+      "p_emp": 0.6175,
+      "r_inv": 0.5484,
+      "detected_emotion": "neutral"
+    }
+  },
+  "18": {
+    "self_rating_raw": "3",
+    "self_rating": 3,
+    "eiq_auto": {
+      "eiq_final": 0.384,
+      "reply_only": 0.4647,
+      "c_emp": 0.6179,
+      "a_emp": 0.4333,
+      "p_emp": 0.5118,
+      "r_inv": 0.5268,
+      "detected_emotion": "neutral"
+    }
+  },
+  "19": {
+    "self_rating_raw": "5",
+    "self_rating": 5,
+    "eiq_auto": {
+      "eiq_final": 0.3593,
+      "reply_only": 0.3927,
+      "c_emp": 0.6348,
+      "a_emp": 0.4,
+      "p_emp": 0.3818,
+      "r_inv": 0.5856,
+      "detected_emotion": "neutral"
+    }
+  },
+  "20": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3988,
+      "reply_only": 0.497,
+      "c_emp": 0.6406,
+      "a_emp": 0.4667,
+      "p_emp": 0.5425,
+      "r_inv": 0.4967,
+      "detected_emotion": "neutral"
+    }
+  },
+  "21": {
+    "self_rating_raw": "4",
+    "self_rating": 4,
+    "eiq_auto": {
+      "eiq_final": 0.3615,
+      "reply_only": 0.4029,
+      "c_emp": 0.6214,
+      "a_emp": 0.4333,
+      "p_emp": 0.3573,
+      "r_inv": 0.5801,
+      "detected_emotion": "neutral"
+    }
+  },
+  "22": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.3663,
+      "reply_only": 0.396,
+      "c_emp": 0.6803,
+      "a_emp": 0.0833,
+      "p_emp": 0.865,
+      "r_inv": 0.5685,
+      "detected_emotion": "fear"
+    }
+  },
+  "23": {
+    "self_rating_raw": "9",
+    "self_rating": 9,
+    "eiq_auto": {
+      "eiq_final": 0.3536,
+      "reply_only": 0.376,
+      "c_emp": 0.6387,
+      "a_emp": 0.35,
+      "p_emp": 0.415,
+      "r_inv": 0.6012,
+      "detected_emotion": "anxiety"
+    }
+  },
+  "24": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.3692,
+      "reply_only": 0.417,
+      "c_emp": 0.6396,
+      "a_emp": 0.35,
+      "p_emp": 0.5175,
+      "r_inv": 0.5621,
+      "detected_emotion": "fear"
+    }
+  },
+  "25": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3428,
+      "reply_only": 0.351,
+      "c_emp": 0.6271,
+      "a_emp": 0.3167,
+      "p_emp": 0.4025,
+      "r_inv": 0.632,
+      "detected_emotion": "neutral"
+    }
+  },
+  "26": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.385,
+      "reply_only": 0.466,
+      "c_emp": 0.6219,
+      "a_emp": 0.5,
+      "p_emp": 0.415,
+      "r_inv": 0.525,
+      "detected_emotion": "neutral"
+    }
+  },
+  "27": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3836,
+      "reply_only": 0.461,
+      "c_emp": 0.6248,
+      "a_emp": 0.4,
+      "p_emp": 0.5525,
+      "r_inv": 0.5286,
+      "detected_emotion": "neutral"
+    }
+  },
+  "28": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3944,
+      "reply_only": 0.487,
+      "c_emp": 0.6347,
+      "a_emp": 0.5,
+      "p_emp": 0.4675,
+      "r_inv": 0.5055,
+      "detected_emotion": "neutral"
+    }
+  },
+  "29": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3824,
+      "reply_only": 0.417,
+      "c_emp": 0.747,
+      "a_emp": 0.35,
+      "p_emp": 0.5175,
+      "r_inv": 0.5313,
+      "detected_emotion": "shame"
+    }
+  },
+  "30": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3519,
+      "reply_only": 0.346,
+      "c_emp": 0.7155,
+      "a_emp": 0.3,
+      "p_emp": 0.415,
+      "r_inv": 0.6057,
+      "detected_emotion": "guilt"
+    }
+  },
+  "31": {
+    "self_rating_raw": "6",
+    "self_rating": 6,
+    "eiq_auto": {
+      "eiq_final": 0.3479,
+      "reply_only": 0.325,
+      "c_emp": 0.7452,
+      "a_emp": 0.2833,
+      "p_emp": 0.3875,
+      "r_inv": 0.6181,
+      "detected_emotion": "shame"
+    }
+  },
+  "32": {
+    "self_rating_raw": "9",
+    "self_rating": 9,
+    "eiq_auto": {
+      "eiq_final": 0.4063,
+      "reply_only": 0.524,
+      "c_emp": 0.6201,
+      "a_emp": 0.65,
+      "p_emp": 0.335,
+      "r_inv": 0.4828,
+      "detected_emotion": "neutral"
+    }
+  },
+  "33": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.41,
+      "reply_only": 0.531,
+      "c_emp": 0.6295,
+      "a_emp": 0.4583,
+      "p_emp": 0.64,
+      "r_inv": 0.476,
+      "detected_emotion": "neutral"
+    }
+  },
+  "34": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3684,
+      "reply_only": 0.422,
+      "c_emp": 0.6187,
+      "a_emp": 0.4,
+      "p_emp": 0.455,
+      "r_inv": 0.5639,
+      "detected_emotion": "neutral"
+    }
+  },
+  "35": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.3786,
+      "reply_only": 0.413,
+      "c_emp": 0.7275,
+      "a_emp": 0.3667,
+      "p_emp": 0.4825,
+      "r_inv": 0.54,
+      "detected_emotion": "sadness"
+    }
+  },
+  "36": {
+    "self_rating_raw": "5",
+    "self_rating": 5,
+    "eiq_auto": {
+      "eiq_final": 0.3282,
+      "reply_only": 0.304,
+      "c_emp": 0.6549,
+      "a_emp": 0.2833,
+      "p_emp": 0.335,
+      "r_inv": 0.6756,
+      "detected_emotion": "sadness"
+    }
+  },
+  "37": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3835,
+      "reply_only": 0.462,
+      "c_emp": 0.6206,
+      "a_emp": 0.4667,
+      "p_emp": 0.455,
+      "r_inv": 0.5289,
+      "detected_emotion": "neutral"
+    }
+  },
+  "38": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.3834,
+      "reply_only": 0.462,
+      "c_emp": 0.6201,
+      "a_emp": 0.4667,
+      "p_emp": 0.455,
+      "r_inv": 0.5291,
+      "detected_emotion": "neutral"
+    }
+  },
+  "39": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3732,
+      "reply_only": 0.435,
+      "c_emp": 0.6184,
+      "a_emp": 0.4667,
+      "p_emp": 0.3875,
+      "r_inv": 0.5523,
+      "detected_emotion": "neutral"
+    }
+  },
+  "40": {
+    "self_rating_raw": "5",
+    "self_rating": 5,
+    "eiq_auto": {
+      "eiq_final": 0.312,
+      "reply_only": 0.2721,
+      "c_emp": 0.6287,
+      "a_emp": 0.25,
+      "p_emp": 0.3053,
+      "r_inv": 0.7272,
+      "detected_emotion": "neutral"
+    }
+  },
+  "41": {
+    "self_rating_raw": "4",
+    "self_rating": 4,
+    "eiq_auto": {
+      "eiq_final": 0.3073,
+      "reply_only": 0.259,
+      "c_emp": 0.6338,
+      "a_emp": 0.25,
+      "p_emp": 0.2725,
+      "r_inv": 0.7428,
+      "detected_emotion": "neutral"
+    }
+  },
+  "42": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.3604,
+      "reply_only": 0.396,
+      "c_emp": 0.6318,
+      "a_emp": 0.4333,
+      "p_emp": 0.34,
+      "r_inv": 0.5846,
+      "detected_emotion": "neutral"
+    }
+  },
+  "43": {
+    "self_rating_raw": "4",
+    "self_rating": 4,
+    "eiq_auto": {
+      "eiq_final": 0.3269,
+      "reply_only": 0.311,
+      "c_emp": 0.624,
+      "a_emp": 0.25,
+      "p_emp": 0.4025,
+      "r_inv": 0.6795,
+      "detected_emotion": "neutral"
+    }
+  },
+  "44": {
+    "self_rating_raw": "6",
+    "self_rating": 6,
+    "eiq_auto": {
+      "eiq_final": 0.3165,
+      "reply_only": 0.284,
+      "c_emp": 0.6263,
+      "a_emp": 0.25,
+      "p_emp": 0.335,
+      "r_inv": 0.7126,
+      "detected_emotion": "neutral"
+    }
+  },
+  "45": {
+    "self_rating_raw": "6",
+    "self_rating": 6,
+    "eiq_auto": {
+      "eiq_final": 0.3175,
+      "reply_only": 0.284,
+      "c_emp": 0.6334,
+      "a_emp": 0.25,
+      "p_emp": 0.335,
+      "r_inv": 0.7101,
+      "detected_emotion": "neutral"
+    }
+  },
+  "46": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.3173,
+      "reply_only": 0.284,
+      "c_emp": 0.6318,
+      "a_emp": 0.25,
+      "p_emp": 0.335,
+      "r_inv": 0.7107,
+      "detected_emotion": "neutral"
+    }
+  },
+  "47": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.3144,
+      "reply_only": 0.28,
+      "c_emp": 0.6214,
+      "a_emp": 0.25,
+      "p_emp": 0.325,
+      "r_inv": 0.721,
+      "detected_emotion": "neutral"
+    }
+  },
+  "48": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3199,
+      "reply_only": 0.284,
+      "c_emp": 0.6511,
+      "a_emp": 0.25,
+      "p_emp": 0.335,
+      "r_inv": 0.7024,
+      "detected_emotion": "neutral"
+    }
+  },
+  "49": {
+    "self_rating_raw": "8",
+    "self_rating": 8,
+    "eiq_auto": {
+      "eiq_final": 0.3177,
+      "reply_only": 0.284,
+      "c_emp": 0.6349,
+      "a_emp": 0.25,
+      "p_emp": 0.335,
+      "r_inv": 0.7094,
+      "detected_emotion": "neutral"
+    }
+  },
+  "50": {
+    "self_rating_raw": "7",
+    "self_rating": 7,
+    "eiq_auto": {
+      "eiq_final": 0.3171,
+      "reply_only": 0.284,
+      "c_emp": 0.6302,
+      "a_emp": 0.25,
+      "p_emp": 0.335,
+      "r_inv": 0.7114,
+      "detected_emotion": "neutral"
+    }
+  }
+}

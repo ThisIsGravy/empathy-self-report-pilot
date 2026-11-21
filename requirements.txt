@@ -1,0 +1,7 @@
+pandas
+scipy
+krippendorff
+# only for regenerating replies:
+transformers
+torch
+accelerate

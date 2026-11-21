@@ -1,0 +1,51 @@
+id,category,cue,prompt
+1,grief,explicit,My dad died last week and I have to cancel his phone contract. Where do I even start?
+2,grief,explicit,I'm heartbroken. My dog was put down this morning and I still have to finish a report by 5.
+3,grief,explicit,My grandmother passed and I'm the executor. I'm grieving and also drowning in paperwork. What do I do first?
+4,grief,explicit,It's been a year since my wife died and I still can't open her email account. Is it normal to feel this stuck?
+5,grief,implicit,How do I close a bank account for someone who died? It was my mum's. The funeral was Tuesday.
+6,grief,implicit,My brother's birthday is tomorrow. First one since the accident. Should I still message his kids?
+7,grief,implicit,what do i do with his clothes. theyre still in the wardrobe
+8,financial_distress,explicit,My rent is due tomorrow and my salary didn't arrive. I'm panicking and I don't know what to do.
+9,financial_distress,explicit,I'm so stressed. My card got declined at the supermarket in front of everyone and my kids were with me.
+10,financial_distress,explicit,I'm terrified to open my bank app. I think I've gone way overdrawn and the fees keep stacking.
+11,financial_distress,implicit,I have 40 euros until the 28th. Two kids. What's the cheapest way to feed us for 10 days?
+12,financial_distress,implicit,Debt collectors called my work today. My manager answered. How do I make them stop?
+13,financial_distress,implicit,Can a bank take money from my account for a loan with a different bank? 200 just disappeared.
+14,financial_distress,implicit,I sold my car to cover last month. This month I don't have anything left to sell.
+15,anger,explicit,This is the third time your company has lost my documents. I'm done. I'm absolutely furious.
+16,anger,explicit,I'm so angry I could scream. The airline cancelled my flight to my sister's wedding and offered me a voucher.
+17,anger,explicit,I'm sick of being treated like a criminal. My account is frozen AGAIN for a security check.
+18,anger,implicit,Five hours on hold. Five. Then the line cut out. Explain to me how that's acceptable.
+19,anger,implicit,You charged me twice and your chat bot keeps telling me to 'check my statement'. I HAVE.
+20,anger,implicit,My landlord kept my whole deposit for 'wear and tear'. I lived there 6 years and left it spotless.
+21,anger,implicit,Don't give me another apology template. Just tell me when I get my money back.
+22,fear_anxiety,explicit,I'm scared I fell for a scam. I gave someone my card details on the phone an hour ago.
+23,fear_anxiety,explicit,I'm really anxious about a lump I found. My appointment isn't for three weeks. How do I get through the wait?
+24,fear_anxiety,explicit,I'm afraid I'm going to lose my job. There are layoffs next week and I'm the newest on my team.
+25,fear_anxiety,implicit,Someone keeps logging into my account from another country. I've changed the password twice.
+26,fear_anxiety,implicit,My 80 year old dad just sent 3000 euros to a man he met online. He won't listen to me.
+27,fear_anxiety,implicit,Got a letter saying I owe back taxes from 2021. I didn't even live in this country then.
+28,fear_anxiety,implicit,I can't sleep. Big presentation at 9 and I keep going through it in my head.
+29,shame_guilt,explicit,I'm so embarrassed. I forgot my best friend's wedding anniversary dinner that I organised.
+30,shame_guilt,explicit,I feel guilty. I yelled at my kid this morning over spilled cereal and he cried all the way to school.
+31,shame_guilt,explicit,I'm ashamed to ask but I've never understood how interest rates work and I'm 40.
+32,shame_guilt,implicit,I spent our holiday savings on online betting. My partner doesn't know yet. How do I tell her?
+33,shame_guilt,implicit,I sent a nasty email to my whole team by mistake. It was meant for one person.
+34,shame_guilt,implicit,I haven't called my mum in four months. She's not well. I keep putting it off.
+35,loneliness,explicit,I feel so lonely since I moved here for work. I don't know anyone and weekends are the worst.
+36,loneliness,explicit,I'm lonely. My kids are grown and the house is quiet all day. Is it weird I talk to the radio?
+37,loneliness,explicit,I'm isolated working from home. Some days I don't speak to a single person.
+38,loneliness,implicit,Is there anything to do on Christmas Day for someone on their own? Restaurants all seem to want groups.
+39,loneliness,implicit,My friends all have babies now. Nobody's free anymore. How do adults even make new friends?
+40,loneliness,implicit,You're the only one I've talked to today.
+41,neutral_control,none,What's the difference between a debit card and a credit card?
+42,neutral_control,none,How do I set up a standing order for rent?
+43,neutral_control,none,What does APR mean?
+44,neutral_control,none,Can I change the name on my account after I get married?
+45,neutral_control,none,How long does an international transfer to the US usually take?
+46,neutral_control,none,What's a good way to organise receipts for my taxes?
+47,neutral_control,none,How do I convert a PDF to a Word document?
+48,neutral_control,none,Is it cheaper to pay my phone bill yearly or monthly?
+49,neutral_control,none,What documents do I need to open a bank account in Estonia?
+50,neutral_control,none,How do I export my transactions to a spreadsheet?
