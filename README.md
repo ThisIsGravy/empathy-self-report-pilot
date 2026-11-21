@@ -34,7 +34,7 @@ raters on 20. Treat it as a pilot.
 
 ## How this was made
 
-I chose the research question, scored all 50 replies, designed the study recruited the other raters, and reviewed
+I chose the research question, scored all 50 replies, designed the study, recruited the other raters, and reviewed
 every result. Claude (Anthropic) helped write the prompts, the generation
 and analysis code, and the first draft of this README.
 
